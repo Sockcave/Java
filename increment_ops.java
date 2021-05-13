@@ -26,7 +26,7 @@ public class increment_ops {
         /*
         int x = 34;
         int y = ++ x; // the value of x is frst incremented to 35, and is then assigned to y
-        // so both valiues of x and y are now 35.
+        // so both values of x and y are now 35.
         */
         System.out.println(y);
     }
