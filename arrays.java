@@ -6,6 +6,7 @@
 // Next you need to define the array's capacity.
 // For example(capacity): int[] arr = new int[5];
 
+
 public class arrays {
 
     public static void example1() {
