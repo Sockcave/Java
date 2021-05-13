@@ -68,6 +68,7 @@ public class conditions {
         }
     }
 
+    // An if statement can contain as many else if statements as you want.
     public static void else_if() {
         int age = 25;
 
