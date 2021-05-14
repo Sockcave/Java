@@ -34,6 +34,11 @@ public class return_intro {
         }
     }
 
+    // Example 
+    public static int myFunc(int x) {
+        return x*3;
+    }
+
     // This definition indicates that the main method takes an array of Strings as its parameters, ...
     //..and does not return a value.
     public static void main(String[] args) {
