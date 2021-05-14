@@ -1,3 +1,4 @@
+package Basics;
 // Variables store data for processing. It is given a name(identifier)
 // Variables have data types (int, String, double, char, boolean)
 

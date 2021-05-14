@@ -1,3 +1,4 @@
+package Basics;
 /** This is a documentation comment */
 class methods {
     public String name = "Andrew";

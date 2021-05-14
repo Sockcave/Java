@@ -1,3 +1,4 @@
+package Basics;
 // Scanner object lets us get user input. 
 
 /*

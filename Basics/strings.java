@@ -1,3 +1,4 @@
+package Basics;
 // A String is an object that represents a sequence of characters.
 // "Hello" for example is a string of 5 characters.
 

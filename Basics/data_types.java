@@ -1,3 +1,4 @@
+package Basics;
 public class data_types {
     // String name = "Andrew";
     // int age = 22;

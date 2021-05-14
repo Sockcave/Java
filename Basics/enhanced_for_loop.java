@@ -1,3 +1,4 @@
+package Basics;
 // Enahanced For Loop (for each loop) is used to traverse elements in arrays.
 // Advantages: eliminates possibility of bugs and makes the code more readable.
 // You do not need to specify the loop bounds.

@@ -1,3 +1,4 @@
+package Basics;
 // A while loop statement repeatedly executes a target statement as long as a given condition is true.
 
 public class while_loops {

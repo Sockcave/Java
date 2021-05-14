@@ -1,3 +1,4 @@
+package Basics;
 // Logical operators are used to combine multiple conditions.
 
 public class logical_statements {
