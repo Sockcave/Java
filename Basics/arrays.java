@@ -1,7 +1,7 @@
 package Basics;
 // An array is a collection of variables of the SAME TYPE.
 // In an array, the elements are ordered and each one has a specific and constant position(index).
-// Arrays are identified wit zero-based index numbers.
+// Arrays are identified with zero-based index numbers.
 
 // To declare an array of integers for example: int[] arr;
 // Next you need to define the array's capacity.

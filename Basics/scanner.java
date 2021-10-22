@@ -27,5 +27,10 @@ public class scanner {
         Scanner myVar2 = new Scanner(System.in);
         System.out.println("Please enter some text again boi.");
         System.out.println("Ya" + myVar2.nextLine());
+
+        myVar.close();
+
+        myVar2.close();
+
     }
 }

@@ -74,13 +74,14 @@ public class switch_statement {
 
     // The switch expression allows multiple comma-separated values per case... 
     // ...and returns a value for the whole switch-case block.
-    public static void switch_exp1(int day) {
-        String dayTime = switch(day) {
-            case 1, 2, 3, 4, 5 -> "Working day";
-            case 6, 7 -> "Weekend";
-            default -> "Invalid day"; 
+    
+    // public static void switch_exp1(int day) {
+    //     String dayTime = switch(day) {
+    //         case 1, 2, 3, 4, 5 -> "Working day";
+    //         case 6, 7 -> "Weekend";
+    //         default -> "Invalid day"; 
 
-    }
+    // }
 
     public static void main(String[] args) {
         switch_statement.example1(3);

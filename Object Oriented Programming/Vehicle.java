@@ -53,7 +53,7 @@ public class Vehicle {
         v2.horn();
 
         // Once our getter and setter have been defined, we can use it in our main
-        v1.setColor("red");
+        v1.setColor("blue");
         System.out.println(v1.getColor());
     }
 }

@@ -28,13 +28,13 @@ public class break_continue {
         }
     }
 
-    // Using loop statements, print the calues of the x variable 5 times.
+    // Using loop statements, print the values of the x variable 5 times.
     public static void five_times() {
         int x = 1;
         do {
             System.out.println(x);
             x ++;
-        } while (x <= 5); // reat this line as the condition
+        } while (x <= 5); // treat this line as the condition
     }
     public static void main(String[] args) {
         break_continue.break_exp();
